@@ -1,4 +1,4 @@
-module golang.org/x/example/ragserver/ragserver-genkit
+module github.com/anuchito/ragserver/ragserver-genkit
 
 go 1.23.0
 

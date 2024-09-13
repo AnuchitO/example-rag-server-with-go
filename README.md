@@ -1,5 +1,5 @@
 # ragserver
-
+[Blog: LLM Powered in Go](https://go.dev/blog/llmpowered)
 *RAG stands for Retrieval Augmented Generation*
 
 ./scriptss of implementing a "RAG Server" in Go, using [Google

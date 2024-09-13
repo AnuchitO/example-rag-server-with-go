@@ -1,4 +1,4 @@
-module golang.org/x/example/ragserver/ragserver
+module github.com/anuchito/ragserver/ragserver
 
 go 1.23.0
 
